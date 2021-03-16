@@ -1,0 +1,16 @@
+$theme-colors: (
+    'primary': #0091ea //Covalence Blue!  :D
+);
+
+.chirpCard {
+    margin: 1em;
+    width: 50em
+}
+
+// .jumbotron {
+//     background-color: black
+// }
+
+
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+
